@@ -33,6 +33,9 @@ body{
 .photo-main{
 	background-image:radial-gradient(#c4ed5f,#a1e317)
 }
+.photo-main>img{
+	margin-right:60px;
+}
 .photo-album{
 	background:white;
 	border:1px solid white;
