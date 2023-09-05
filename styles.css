@@ -1,1 +1,104 @@
-/* your code here */
+body{
+	background:#10e37f;
+	margin-left:20%;
+	
+}
+.share{
+	color:white;
+	margin-top:10px;
+	margin-left:10px;
+}
+.heart{
+	color:white;
+	margin-top:10px;
+	margin-left:290px;
+}
+.product{
+	display:flex;
+}
+.photo-container{
+	box-shadow: 1px 5px 19px gray;
+	margin-top:150px;
+	margin-left:0px;
+	position:absolute;
+	border-radius:10px;
+	overflow:hidden;
+}
+.apple{
+	border:px solid;
+	display:block;
+	margin-right:0px;
+	box-sizing:border-box;
+}
+.photo-main{
+	background-image:radial-gradient(#c4ed5f,#a1e317)
+}
+.photo-album{
+	background:white;
+	border:1px solid white;
+}
+.ime{
+	display:flex;
+	list-style:none;
+	justify-item:space-between;
+}
+.photo-album{
+	
+}
+.im{
+	width:60px;
+	border:1px solid lightgreen;
+	border-radius:10px;
+	margin-left:7px;
+}
+.product__info{
+	width:600px;
+	height:600px;
+	background:white;
+	position:static;
+	margin-left:100px;
+	margin-top:90px;
+}
+.title{
+	margin-left:50%;
+	margin-top:100px;
+}
+
+.price{
+	margin-left:50%;
+}
+.variant{
+	margin-left:50%;
+	display:
+}
+.im-1{
+	list-style:none;
+}
+.im-2{
+	border:1px solid lightgreen;
+	width:60px;
+	border-radius:10px
+}
+.ime-1{
+	display:flex;
+}
+.description{
+	color:black;
+}
+.name{
+	margin-left:50%;
+}
+.lists{
+	margin-left:50%;
+}
+.btm{
+	margin-left:50%;
+	margin-top:40px;
+}
+.add{
+	padding:20px;
+	background:#fe3f40;
+	border-radius:10px;
+	border:none;
+	color:white;
+}
