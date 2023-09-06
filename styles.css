@@ -11,7 +11,7 @@ body{
 .heart{
 	color:white;
 	margin-top:10px;
-	margin-left:290px;
+	margin-left:270px;
 }
 .product{
 	display:flex;
@@ -22,7 +22,7 @@ body{
 	margin-left:0px;
 	position:absolute;
 	border-radius:10px;
-	overflow:hidden;
+	
 }
 .apple{
 	border:px solid;
@@ -34,7 +34,7 @@ body{
 	background-image:radial-gradient(#c4ed5f,#a1e317)
 }
 .photo-main>img{
-	margin-right:60px;
+	margin-left:-50px;
 }
 .photo-album{
 	background:white;
